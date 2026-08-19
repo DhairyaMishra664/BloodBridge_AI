@@ -1,0 +1,7 @@
+bank_id,bank_name,city,state,latitude,longitude,data_source,collected_at_utc
+bank_001,Synthetic Reference Centre North,Kanpur,Uttar Pradesh,26.4499,80.3319,OFFLINE_FICTIONAL_REFERENCE,2026-08-19T11:38:31.236865+00:00
+bank_002,Synthetic Reference Centre South,Kanpur,Uttar Pradesh,26.4310,80.2900,OFFLINE_FICTIONAL_REFERENCE,2026-08-19T11:38:31.236865+00:00
+bank_003,Synthetic Reference Centre East,Lucknow,Uttar Pradesh,26.8467,80.9462,OFFLINE_FICTIONAL_REFERENCE,2026-08-19T11:38:31.236865+00:00
+bank_004,Synthetic Reference Centre West,Lucknow,Uttar Pradesh,26.8310,80.9000,OFFLINE_FICTIONAL_REFERENCE,2026-08-19T11:38:31.236865+00:00
+bank_005,Synthetic Reference Centre Central,Prayagraj,Uttar Pradesh,25.4358,81.8463,OFFLINE_FICTIONAL_REFERENCE,2026-08-19T11:38:31.236865+00:00
+bank_006,Synthetic Reference Centre River,Varanasi,Uttar Pradesh,25.3176,82.9739,OFFLINE_FICTIONAL_REFERENCE,2026-08-19T11:38:31.236865+00:00
